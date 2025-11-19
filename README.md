@@ -1,7 +1,3 @@
-Aqui está o conteúdo formatado como um **README.md** profissional, limpinho e pronto para usar no GitHub 👇
-
----
-
 # **HostDocs**
 
 HostDocs é um sistema simples de **gestão de arquivos** desenvolvido em **PHP**.
